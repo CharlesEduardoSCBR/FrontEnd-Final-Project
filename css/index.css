@@ -31,4 +31,44 @@ header {
     background-color: #50a3a7;
 }
 
+.jumbotron{
+    padding: 0 0 3em 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.secao-titulos {
+    color: white;
+    text-shadow: 4px 4px 10px black;
+}
+
+header h1{
+    font-size: 3em;
+}
+
+header h2{
+    font-size: 2.25em;
+    color: #76FF40;
+}
+
+
+.btn-inscricao{
+    display: inline-block;
+    padding: 1em 1.5em;
+    background-color: #50a3a7;
+    border-radius: 15px;
+    font-size: 1.2em;
+    color: white;
+    text-decoration: none;   
+}
+
+.secao-inscricao{
+    margin-top: 1.3em;
+}
+
+@media(min-width: 650px){
+    .jumbotron{
+        font-size: 1.75em;
+    }
+}
 /*Fim Menu*/
