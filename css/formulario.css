@@ -1,0 +1,29 @@
+.panel-form{
+    margin-top: 2em;
+    width: 90%;
+}
+
+.panel-form .title{
+    font-size: 2em;
+    color: #EF7247;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.field {
+    margin-top: 1em;
+}
+
+.field label{
+    display: block;
+    font-size:  1.25em;
+    margin-bottom: .7em;
+    font-weight: bold;
+}
+
+.field .field-input{
+    display: block;
+    width: 100%;
+    font-size: 1.2em;
+    padding: .3em;
+}
