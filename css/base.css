@@ -2,3 +2,23 @@
     width: 96%;
     margin: 0 auto;
 }
+
+.field {
+    margin-bottom: 1em;
+}
+
+.field-label {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: .7em;
+    font-weight: bold;
+}
+
+.field .field-input{
+    display: block;
+    width: 100%;
+    font-size: 1.2em;
+    padding: .3em;
+    border-radius: .3em;
+    box-shadow: 1px 1px 10px #48a2a6;
+}
